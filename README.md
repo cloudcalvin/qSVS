@@ -17,8 +17,11 @@ The models are compatible with SDF (standard delay format) and friendly with the
 Developers
 ***********
 Ramy Tadros <rtadros@usc.edu>
+
 Arash Fayyazi <fayyazi@usc.edu>
+
 Peter Beerel <pabeerel@usc.edu>
+
 Massoud Pedram <pedram@usc.edu>
 
 
