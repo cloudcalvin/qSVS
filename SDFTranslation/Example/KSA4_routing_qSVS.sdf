@@ -1,0 +1,2619 @@
+(DELAYFILE
+ (DESIGN "KSA4")
+ (TIMESCALE 1ps)
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_74_n197.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.7:9.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_74_n197.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.2:7.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_75_n198.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_75_n198.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.4:9.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_78_n201.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_78_n201.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_76_n199.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.7:8.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_76_n199.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_79_n202.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_79_n202.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_77_n200.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_77_n200.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.2:9.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_80_n203.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_80_n203.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.7:7.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_81_n204.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.6:9.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_81_n204.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_117.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.2:8.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_117.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.4:8.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_88.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_88.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.9:9.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_116.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.9:7.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_116.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.9:7.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_73.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.1:9.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_73.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.7:8.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_87.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_87.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_102.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_102.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_115.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.3:7.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_115.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_66.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.2:6.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_66.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_72.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.3:7.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_72.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.3:7.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_80.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.7:8.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_80.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_86.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_86.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_95.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.9:7.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_95.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.9:5.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_101.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.3:7.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_101.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_108.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.2:6.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_108.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.7:7.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_114.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.4:7.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_114.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.9:5.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_62.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_62.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.2:6.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_65.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_65.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.0:9.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_69.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_69.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_71.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_71.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.8:7.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_76.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.4:6.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_76.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_79.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_79.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.9:5.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_83.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_83.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.9:7.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_85.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.4:6.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_85.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.3:7.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_91.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.4:6.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_91.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_94.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_94.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_98.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.9:5.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_98.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_100.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_100.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_105.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.4:9.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_105.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.2:6.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_107.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.8:7.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_107.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_111.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.9:5.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_6_111.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_113.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.2:6.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_113.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_60.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_60.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_61.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.7:5.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_61.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_63.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_63.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.9:5.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_64.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_64.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.7:6.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_67.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_67.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.2:6.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_68.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_68.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.8:5.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_70.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.4:8.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_70.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_74.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.2:7.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_74.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_75.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_75.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.7:6.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_77.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.0:9.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_77.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.7:7.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_78.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.3:7.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_2_78.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.3:8.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_81.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_81.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.2:8.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_82.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.8:6.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_82.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.2:6.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_84.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_84.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_89.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.2:7.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_89.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_90.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_90.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_92.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.3:10.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_92.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.8:6.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_93.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_93.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.8:6.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_96.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_96.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_97.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.7:5.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_97.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_99.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_99.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_103.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_0_103.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_104.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.8:5.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_104.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.1:8.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_106.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_106.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.7:6.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_109.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.8:5.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_109.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_110.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_110.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_112.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.8:6.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE SplitCLK_4_112.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.1:7.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_68_n191.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_68_n191.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_87_n210.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.6:9.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_87_n210.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.7:6.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_97_n220.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.2:9.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_97_n220.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_38_n38.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.1:9.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_38_n38.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_22_n22.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.1:10.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_22_n22.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_17_n17.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_17_n17.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_31_n31.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (13.4:13.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_31_n31.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_18_n18.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.2:9.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_18_n18.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_30_n30.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.1:9.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_30_n30.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_23_n23.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (11.2:11.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_23_n23.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_15_n15.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.1:9.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_15_n15.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_57_n180.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.7:9.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_57_n180.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_88_n211.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_88_n211.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.4:8.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_84_n207.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_84_n207.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_99_n222.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.5:8.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_99_n222.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.0:9.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_95_n218.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (11.9:11.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_95_n218.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_58_n181.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.3:10.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_58_n181.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_86_n209.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.9:8.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_86_n209.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.5:8.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_93_n216.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_93_n216.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.2:9.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_90_n213.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.9:7.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_90_n213.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.5:10.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_40_n40.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_40_n40.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_35_n35.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.6:10.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_35_n35.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_25_n25.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_25_n25.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_43_n43.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.6:6.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_43_n43.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_20_n20.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.8:7.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_20_n20.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_91_n214.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.0:10.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_91_n214.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.2:9.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_92_n215.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.9:6.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_92_n215.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.5:9.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_64_sum0.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.5:6.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_64_sum0.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_63_n186.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.9:6.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_63_n186.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_96_n219.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.9:8.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_96_n219.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.1:8.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_62_n185.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.9:6.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_62_n185.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_61_n184.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.9:6.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_61_n184.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_54_n177.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.3:7.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_54_n177.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_82_n205.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_82_n205.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (11.6:11.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_55_n178.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_55_n178.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_56_n179.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_56_n179.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_101_n224.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_101_n224.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.9:7.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_33_n33.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.1:6.1))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_33_n33.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_53_n176.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_53_n176.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_36_n36.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_36_n36.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_37_sum3.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.7:5.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_37_sum3.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_51_n174.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.3:8.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_51_n174.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_21_n21.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.4:7.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_21_n21.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_65_n188.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (12.5:12.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_65_n188.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_46_cout.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (5.0:5.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_46_cout.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_66_sum1.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.5:6.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_66_sum1.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_60_n183.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.5:10.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_60_n183.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_45_n45.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.5:10.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_45_n45.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_29_n29.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.8:6.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_29_n29.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_67_sum2.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.5:6.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_67_sum2.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_98_n221.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_98_n221.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_70_n193.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_70_n193.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_100_n223.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.3:6.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_100_n223.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.8:8.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_89_n212.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.9:8.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_89_n212.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (11.0:11.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_71_n194.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.0:8.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_71_n194.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_85_n208.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.2:8.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_85_n208.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.6:7.6))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_69_n192.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (11.8:11.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_69_n192.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_48_n171.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_48_n171.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_52_n175.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_52_n175.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_47_n170.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (11.7:11.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_47_n170.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_94_n217.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_94_n217.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.2:8.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_72_n195.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_72_n195.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_49_n172.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.3:8.3))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_49_n172.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_42_n42.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.8:10.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_42_n42.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE or2_28_n28.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (8.2:8.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE or2_28_n28.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.7))
+     (HOLD data1 (posedge clkin) (0.2))
+     (SETUP data2 (posedge clkin) (0.7))
+     (HOLD data2 (posedge clkin) (0.2))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_73_n196.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.7:7.7))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_73_n196.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_44_n44.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.8:9.8))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_44_n44.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_83_n206.gPD1.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.0:7.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE Split_83_n206.gPD2.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.5:6.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_50_n173.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (7.5:7.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_50_n173.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_34_n34.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (12.5:12.5))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_34_n34.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE DFF_59_n182.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.9:6.9))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck1")
+   (INSTANCE DFF_59_n182.TC)
+   (TIMINGCHECK
+     (SETUP data (posedge clkin) (0.0))
+     (HOLD data (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_27_n27.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (9.0:9.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_27_n27.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_32_n32.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.2:10.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_32_n32.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_26_n26.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (13.4:13.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_26_n26.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_24_n24.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.2:10.2))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_24_n24.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_41_n41.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (10.4:10.4))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_41_n41.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_39_n39.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (11.0:11.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_39_n39.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE and2_19_n19.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (13.0:13.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE and2_19_n19.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (0.0))
+     (HOLD data1 (posedge clkin) (3.3))
+     (SETUP data2 (posedge clkin) (0.0))
+     (HOLD data2 (posedge clkin) (3.3))
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQGateDelay")
+   (INSTANCE xor2a_16_n16.gPD.g0)
+   (DELAY
+     (ABSOLUTE
+     (IOPATH in out (6.0:6.0))
+     )
+   )
+ )
+ (CELL
+   (CELLTYPE "SFQtimingcheck2")
+   (INSTANCE xor2a_16_n16.TC)
+   (TIMINGCHECK
+     (SETUP data1 (posedge clkin) (2.7))
+     (HOLD data1 (posedge clkin) (4.9))
+     (SETUP data2 (posedge clkin) (2.7))
+     (HOLD data2 (posedge clkin) (4.9))
+   )
+ )
+)
