@@ -29,4 +29,4 @@ Massoud Pedram <pedram@usc.edu>
 
 Questions or Bugs?
 ***********
-You may send email to  <rtadros@usc.edu> for any questions you may have or bugs that you find.
+You may send email to  <fayyazi@usc.edu> or <rtadros@usc.edu> for any questions you may have or bugs that you find.
