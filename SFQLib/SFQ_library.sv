@@ -85,20 +85,20 @@ endmodule //or2
 ///////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////
-module SFQor2 (SFQ clkin, in1, in2, out);
+module SFQxor2 (SFQ clkin, in1, in2, out);
 	
 	SFQpropagationDelay gPD ();
 	
 	always begin
 		clkin.receive();
-		if (in1.isReceived(1'b1) | in2.isReceived(1'b1)) begin
+		if (in1.isReceived(1'b1) ^ in2.isReceived(1'b1)) begin
 			gPD.tPD();
 			out.send();
 		end
 	end
 	
 	SFQtimingcheck2 TC (clkin.data, in1.data, in2.data);
-endmodule //or2
+endmodule //xor2
 ///////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////
