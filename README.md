@@ -14,8 +14,13 @@ The development is supported by
 The models are compatible with SDF (standard delay format) and friendly with the existing tools, they offer an easy debugging platform, modular and qualified for generalization and reproduction, elegant and conceptual, can encompass many circuit parameters, environmental effects, and advanced SCEphenomena.
 
 
+## Publication
 
-Developers
++ Ramy N Tadros, Arash Fayyazi, Massoud Pedram, and Peter A Beerel. [SystemVerilog Modeling of SFQ and AQFP Circuits](https://ieeexplore.ieee.org/abstract/document/8918472). In TAS, 2020.
+
+
+
+## Developers
 ***********
 Ramy Tadros <rtadros@usc.edu>
 
@@ -26,7 +31,6 @@ Peter Beerel <pabeerel@usc.edu>
 Massoud Pedram <pedram@usc.edu>
 
 
-
-Questions or Bugs?
+## Questions or Bugs?
 ***********
 You may send email to  <fayyazi@usc.edu> or <rtadros@usc.edu> for any questions you may have or bugs that you find.
