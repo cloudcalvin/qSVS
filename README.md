@@ -18,7 +18,19 @@ The models are compatible with SDF (standard delay format) and friendly with the
 
 + Ramy N Tadros, Arash Fayyazi, Massoud Pedram, and Peter A Beerel. [SystemVerilog Modeling of SFQ and AQFP Circuits](https://ieeexplore.ieee.org/abstract/document/8918472). In TAS, 2020.
 
++ Please cite:
 
+```
+@ARTICLE{Tadros2019TAS,
+  author={R. N. Tadros and A. Fayyazi and M. Pedram and P. A. Beerel},
+  journal={IEEE Transactions on Applied Superconductivity}, 
+  title={SystemVerilog Modeling of SFQ and AQFP Circuits}, 
+  year={2020},
+  volume={30},
+  number={2},
+  pages={1-13},
+  doi={10.1109/TASC.2019.2957196}}
+```
 
 ## Developers
 ***********
